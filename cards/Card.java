@@ -12,7 +12,7 @@ import javax.json.JsonReader;
 
 
 /**
- * Abstract magic card class, constructed by name
+ * Magic card class, constructed by name
  * @author Patrick Settle
  */
 public class Card {
